@@ -1,0 +1,21 @@
+{
+  "name": "compose_scale_sample",
+  "version": "1.0.0",
+  "description": "Sample of scaling Express.js using Docker and Docker compose.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razberrytaki/compose_scale_sample.git"
+  },
+  "author": "razberrytaki",
+  "license": "MIT",
+  "homepage": "https://github.com/razberrytaki/compose_scale_sample#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "private" : true,
+  "type": "module"
+}
